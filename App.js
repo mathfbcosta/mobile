@@ -35,7 +35,6 @@ const styles = StyleSheet.create({
     color: '#fff'
   },
   celNumber: {
-    flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: '#fff',
